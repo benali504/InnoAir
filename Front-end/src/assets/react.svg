@@ -1,0 +1,12 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { font-family: Arial, sans-serif; font-size: 16px; fill: black; }
+      .link { fill: blue; text-decoration: underline; cursor: pointer; }
+    </style>
+    <text x="10" y="30" class="text">
+      Icônes conçues par 
+      <a href="https://www.freepik.com" class="link">Freepik</a> 
+      de 
+      <a href="https://www.flaticon.com/fr/" class="link">Flaticon</a>.
+    </text>
+  </svg>

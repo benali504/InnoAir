@@ -1,0 +1,6 @@
+export const validateRequest = (req, res, next) => {
+  // ...votre logique de validation...
+  next();
+};
+
+// ...autres middlewares...
